@@ -142,10 +142,10 @@ nav ul li a:hover::after{
 }
 .tab-links{
     margin-right: 50px;
-    font-size: 25px;
+    font-size: 10px;
     font-weight: 500;
     cursor: pointer;
-    position: absolute;
+    position: relative;
 }
 .tab-links::after{
     content: '';
