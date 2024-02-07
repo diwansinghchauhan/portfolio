@@ -263,7 +263,7 @@ footer {
   }
   @media only screen and (max-width: 600px){
     #header{
-        background-image: url(images/mobile-back.png);
+        background-image: url(images/mobile-back-1.png);
     }
     .logo{
         font-size: 0.1rem;
@@ -320,7 +320,7 @@ footer {
         font-size: 14px;
     }
     .tab-links{
-        font-size: 20px;
+        font-size: 15px;
         margin-right: 20px;
     }
     #contact, 
