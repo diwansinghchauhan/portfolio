@@ -261,9 +261,9 @@ footer {
   nav ul li img{
     display: none;
   }
-  @media only screen and (max-width: 700px){
+  @media only screen and (max-width: 600px){
     #header{
-        background-image: url(images/mobile-back-1.png);
+        background-image: url(images/mobile-back.png);
     }
     .logo{
         font-size: 0.1rem;
